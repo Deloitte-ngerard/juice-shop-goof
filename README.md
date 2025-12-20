@@ -1,4 +1,4 @@
-TEST MOD1
+TEST MODIFICATION
 *[original Juice Shop readme](./JUICESHOP_README.md)*
 
 # Snyk Juice Shop
